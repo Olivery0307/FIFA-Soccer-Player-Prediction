@@ -1,6 +1,6 @@
 # FIFA Soccer Player Position Prediction
 ## 📖 About The Project
-This project uses data from the FIFA 22 video game to predict the optimal field position for a soccer player (Forward, Midfielder, or Defender) based on their in-game attributes. The goal was to build an interpretable model that could not only make accurate predictions but also reveal which player skills are most influential in determining their best position.
+This project uses data from the FIFA 22 video game to predict the optimal field position for a soccer player (Forward, Midfielder, or Defender) based on their in-game attributes. The goal was to build an interpretable model that could not only make accurate predictions but also reveal which player skills are most influential in determining their best position. The README file serves as a consise introduction of this project. For more details, please read the report.pdf attached in this repository.
 
 This analysis serves as a practical tool for FIFA players creating a custom player in "Career Mode" or for anyone interested in understanding the statistical archetypes of different soccer positions.
 
